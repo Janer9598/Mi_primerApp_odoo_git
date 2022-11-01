@@ -1,0 +1,9 @@
+<odoo>
+    <data>
+        <!-- Top menu item -->
+        <menuitem name="Odoo_git" id="odoo_git.menu_root"/>
+
+        <!-- menu categories -->
+        <menuitem name="Producto" id="odoo_git.producto" parent="odoo_git.menu_root" action="odoo_git_producto.producto_action_window"/>
+    </data>
+</odoo>
