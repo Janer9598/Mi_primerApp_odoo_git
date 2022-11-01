@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo_git_odoo_git,odoo_git.odoo_git,model_odoo_git_odoo_git,base.group_user,1,1,1,1
